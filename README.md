@@ -11,7 +11,7 @@ Curadoria pessoal de fundos de tela estáticos e animados.
 ---
 
 ### 📸 Preview
-<img src="Wallpapers estaticos/wallhaven-kxyj9q_1920x1080.png" width="48%"> <img src="Wallpapers estaticos/wallhaven-9ozmpd_1920x1080.png" width="48%">
+<img src="Wallpapers estaticos/rebecca_cyberpunk_edgerunners_bebendo.png" width="48%"> <img src="Wallpapers estaticos/denji_power_e_kobeni_comemorando.png" width="48%">
 
 ---
 
