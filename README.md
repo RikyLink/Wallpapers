@@ -11,7 +11,7 @@ Curadoria pessoal de fundos de tela estáticos e animados.
 ---
 
 ### 📸 Preview
-<img src="https://github.com/RikyLink/Wallpapers/blob/main/Wallpapers%20estaticos/wallhaven-kxyj9q_1920x1080.png?raw=true" width="48%"> <img src="https://github.com/RikyLink/Wallpapers/blob/main/Wallpapers%20estaticos/wallhaven-ogg8w9_1920x1080.png?raw=true" width="48%">
+<img src="Wallpapers estaticos/wallhaven-kxyj9q_1920x1080.png" width="48%"> <img src="Wallpapers estaticos/wallhaven-9ozmpd_1920x1080.png" width="48%">
 
 ---
 
