@@ -1,8 +1,7 @@
 <div align="center">
 
 # 🌌 Repo de Wallpapers
-Curadoria pessoal de fundos de tela estáticos e animados.
-
+Repositório com os meus wallpapers.
 ---
 
 ### 📂 Coleções
