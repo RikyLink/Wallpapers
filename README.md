@@ -3,13 +3,10 @@
 # 🌌 Repo de Wallpapers
 Curadoria pessoal de fundos de tela estáticos e animados.
 
-<img src="https://img.shields.io/github/directory-file-count/SEU_USUARIO/NOME_DO_REPO?color=BD93F9&label=Wallpapers&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/SEU_USUARIO/NOME_DO_REPO?color=FF79C6&style=flat-square" />
-
 ---
 
 ### 📂 Coleções
-**[🖼️ Estáticos](./wallpapers_estaticos)** • **[🎞️ Animados](./Wallpaper_animados)**
+**[🖼️ Estáticos](./Wallpapers%20estaticos)** • **[🎞️ Animados](./Wallpaper%20animados)**
 
 ---
 
@@ -24,7 +21,7 @@ Para os arquivos animados, utilize:
 
 ---
 
-**Feito por [Seu Nome]**
-[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=github)](https://github.com/SEU_USUARIO)
+**Feito por Riky**
+[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=github)](https://github.com/RikyLink)
 
 </div>
