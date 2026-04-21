@@ -9,7 +9,7 @@ Curadoria pessoal de fundos de tela estáticos e animados.
 ---
 
 ### 📂 Coleções
-**[🖼️ Estáticos](./wallpapers estaticos)** • **[🎞️ Animados](./Wallpaper animados)**
+**[🖼️ Estáticos](./wallpapers_estaticos)** • **[🎞️ Animados](./Wallpaper_animados)**
 
 ---
 
